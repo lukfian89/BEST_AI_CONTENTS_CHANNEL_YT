@@ -1,2 +1,241 @@
 # BEST_AI_CONTENTS_CHANNEL_YT
 Most valuable AI content creators on YouTube, categorized by specialty. 
+
+Use these resources to keep yourself updated with the latest in AI:
+
+## AI News
+- Wes Roth - https://www.youtube.com/@WesRoth
+- Matthew Berman - https://www.youtube.com/@matthew_berman
+- Elvis Saravia - https://www.youtube.com/@elvissaravia/videos
+- Matt Wolfe - https://www.youtube.com/@mreflow
+- 1littlecoder - https://www.youtube.com/@1littlecoder
+- SkillLeap AI - https://www.youtube.com/@SkillLeapAI/videos
+- The Ai Grid - https://www.youtube.com/@TheAiGrid
+- AI Search - https://www.youtube.com/@theAIsearch/videos
+- AI Explained - https://www.youtube.com/@aiexplained-official/videos
+- Matt Vid Pro - https://www.youtube.com/@MattVidPro/videos
+- Mervin Praison - https://www.youtube.com/@MervinPraison/videos
+- AI Jason - https://www.youtube.com/@AIJasonZ/videos
+- Prompt Engineering - https://www.youtube.com/@engineerprompt/videos
+- AI Advantage - https://www.youtube.com/@aiadvantage
+- bycloud - https://www.youtube.com/@bycloudAI/videos
+- Fireship - https://www.youtube.com/@Fireship/videos
+- Airtrain AI - https://www.youtube.com/@AirtrainAI/videos
+- t3dotgg - https://www.youtube.com/@t3dotgg
+- Anthropic AI - https://www.youtube.com/@anthropic-ai/videos
+- OpenAI - https://www.youtube.com/@OpenAI/videos
+- Kevin Stratvert - https://www.youtube.com/@KevinStratvert/videos
+- HuggingFace - https://www.youtube.com/@HuggingFace/videos
+- Google Quantum AI - https://www.youtube.com/@GoogleQuantumAI/videos
+- Boston Dynamics - https://www.youtube.com/@BostonDynamics/videos
+- Figure - https://www.youtube.com/@figureai
+- AI at Meta - https://www.youtube.com/@AIatMeta/videos
+- Replicate - https://www.youtube.com/@replicatehq
+- AIDailyBrief - https://www.youtube.com/@AIDailyBrief
+- CNET - https://www.youtube.com/@CNET/videos
+- The Tesla Space - https://www.youtube.com/@TheTeslaSpace
+- Prime Intellect - https://www.youtube.com/@PrimeIntellect/videos
+- Unitree Robotics - https://www.youtube.com/@unitreerobotics
+- Tech Rogue - https://www.youtube.com/@Tech-Rogue/videos
+- Microsoft - https://www.youtube.com/@Microsoft/videos
+- Neuralink - https://www.youtube.com/@neuralink
+- Theorants - https://www.youtube.com/@theorants/videos
+- Dr Alan D. Thompson - https://www.youtube.com/@DrAlanDThompson/videos
+- NVIDIA GeForce - https://www.youtube.com/@NVIDIAGeForce/videos
+- Lethal Intelligence AI - https://www.youtube.com/@lethal-intelligence/videos
+
+## AI Agents
+- Adam Lucek - https://www.youtube.com/@AdamLucek/videos
+- Leon van Zyl - https://www.youtube.com/@leonvanzyl/videos
+- James Briggs - https://www.youtube.com/@jamesbriggs/videos
+- Eden Marco - https://www.youtube.com/@EdenMarco/videos
+- Underfitted - https://www.youtube.com/@underfitted/videos
+- All About AI - https://www.youtube.com/@AllAboutAI/videos
+- n8n - https://www.youtube.com/@n8n-io/videos
+- LangChain - https://www.youtube.com/@LangChain/videos
+- Crew AI - https://www.youtube.com/@crewAIInc/videos
+- WhatsAI - https://www.youtube.com/@WhatsAI/videos
+- Chat with data - https://www.youtube.com/@chatwithdata/videos
+- Dave Ebbelaar - https://www.youtube.com/@daveebbelaar/videos
+- FuturMinds - https://www.youtube.com/@FuturMinds/videos
+- David Ondrej - https://www.youtube.com/@DavidOndrej/videos
+- Langflow - https://www.youtube.com/@Langflow/videos
+- Decoder - https://www.youtube.com/@decoder-sh/videos
+- Flowise AI - https://www.youtube.com/@FlowiseAI
+- Edrick - https://www.youtube.com/@edrickdch/videos
+- Thomas Ingram - https://www.youtube.com/@OnyxStudiosInteractive
+- Max Jean - https://www.youtube.com/@Max_Jean/videos
+- Emergent Garden - https://www.youtube.com/@EmergentGarden/videos
+
+## Tutorials
+- Andrej Karpathy - https://www.youtube.com/@AndrejKarpathy/videos
+- FreeCodeCamp - https://www.youtube.com/@freecodecamp/videos
+- Learn With Jay - https://www.youtube.com/@MachineLearningWithJay/videos
+- Machine Learning & Simulation - https://www.youtube.com/@MachineLearningSimulation/videos
+- Misra Turp - https://www.youtube.com/@misraturp/videos
+- Ari Seff - https://www.youtube.com/@ariseffai/videos
+- Abhishek Thakur - https://www.youtube.com/@abhishekkrthakur/videos
+- AI Sciences Learn - https://www.youtube.com/@AISciencesLearn/videos
+- Nicholas Renotte - https://www.youtube.com/@NicholasRenotte/videos
+- Shawhin Talebi - https://www.youtube.com/@ShawhinTalebi/videos
+- The PyCoach - https://www.youtube.com/@ThePyCoach/videos
+- AI with Alex - https://www.youtube.com/@aiwithaz/videos
+- Siraj Raval - https://www.youtube.com/@SirajRaval/videos
+- Efficient NLP - https://www.youtube.com/@EfficientNLP/videos
+- NeuralNine - https://www.youtube.com/@NeuralNine/videos
+- Gonkee - https://www.youtube.com/@Gonkee/videos
+- Tech With Tim - https://www.youtube.com/@TechWithTim/videos
+- Sebastian Lague - https://www.youtube.com/@SebastianLague/videos
+- Aladdin Persson - https://www.youtube.com/@AladdinPersson/videos
+- Aritra Sen - https://www.youtube.com/@AritraSen/videos
+- Rob Mulla - https://www.youtube.com/@robmulla/videos
+- Jason Builds - https://www.youtube.com/@_Jason_Builds/videos
+- Sebastian Schuchmann - https://www.youtube.com/@SebastianSchuchmannAI/videos
+- CampusX - https://www.youtube.com/@campusx-official/videos
+- Daniel Bourke arXiv - https://www.youtube.com/@danielbourkearxiv2821/videos
+- Donato Capitella - https://www.youtube.com/@donatocapitella/videos
+- Henrik Kniberg - https://www.youtube.com/@henrikkniberg/videos
+- Maxime Kawawa-Beaudan - https://www.youtube.com/@maximejkb/videos
+
+## Understanding AI Research Papers
+- AI Coffee Break - https://www.youtube.com/@AICoffeeBreak/videos
+- Umar Jamil - https://www.youtube.com/@umarjamilai
+- Yannic Kilcher - https://www.youtube.com/@YannicKilcher
+- Two Minute Papers - https://www.youtube.com/@TwoMinutePapers/videos
+- AI Papers Academy - https://www.youtube.com/@aipapersacademy/videos
+- Gabriel Mongaras - https://www.youtube.com/@gabrielmongaras/videos
+- hu-po - https://www.youtube.com/watch?v=PP4DYP5RGhA
+- AIBites - https://www.youtube.com/@AIBites/videos
+- Discover AI - https://www.youtube.com/@code4AI/videos
+- Data Science Gems - https://www.youtube.com/@dlByManish/videos
+- Neural Breakdown with AVB - https://www.youtube.com/@avb_fj/videos
+- Sasha Rush - https://www.youtube.com/@srush_nlp/videos
+- Arxiv Insights - https://www.youtube.com/@ArxivInsights/videos
+
+## Learn Machine Learning
+- Animated AI - https://www.youtube.com/@animatedai/videos
+- Code Emporium - https://www.youtube.com/@CodeEmporium/videos
+- DeepFindr - https://www.youtube.com/@DeepFindr/videos
+- 3 Minute Science - https://www.youtube.com/@3-minutedatascience/videos
+- ExplainingAI - https://www.youtube.com/@Explaining-AI/videos
+- Welch Labs - https://www.youtube.com/@WelchLabsVideo/videos
+- Deeplearningai - https://www.youtube.com/@Deeplearningai/videos
+- Normalized Nerd - https://www.youtube.com/@NormalizedNerd/videos
+- 3Blue1Brown - https://www.youtube.com/@3blue1brown
+- Prathosh Ap - https://www.youtube.com/@prathoshap5226/videos
+- Volodymyr Kuleshov - https://www.youtube.com/@vkuleshov/playlists
+- Visually Explained - https://www.youtube.com/@VisuallyExplained/videos
+- Adam Dhalla - https://www.youtube.com/@adamdhalla1270/videos.
+- StatQuest - https://www.youtube.com/@statquest
+- Vcubingx - https://www.youtube.com/@vcubingx/featured
+- Shusen Wang - https://www.youtube.com/@ShusenWangEng/videos
+- Serrano Academy - https://www.youtube.com/@SerranoAcademy/videos
+- The Full Stack - https://www.youtube.com/@The_Full_Stack
+- Soroush Mehraban - https://www.youtube.com/@soroushmehraban/videos
+- Visual Kernel - https://www.youtube.com/@visualkernel
+- AI by Hand - https://www.youtube.com/@ai-by-hand
+- Jay Alammar - https://www.youtube.com/@arp_ai/videos
+- Intuitive Machine Learning - https://www.youtube.com/@IntuitiveMachineLearning/videos
+- DeepBean - https://www.youtube.com/@deepbean/videos
+- Alexander Amini - https://www.youtube.com/@AAmini/videos
+- Algorithmic Simplicity - https://www.youtube.com/@algorithmicsimplicity/videos
+- Breathe Math - https://www.youtube.com/@breathemath4757/videos
+- Denis Dmitriev - https://www.youtube.com/@DenisDmitrievDeepRobotics/videos
+- Vizuara - https://www.youtube.com/@vizuara/videos
+- Hedu AI - https://www.youtube.com/@HeduAI/videos
+- Digital Learning Hub - https://www.youtube.com/@digitallearninghub-imperia3540/videos
+- Depth First - https://www.youtube.com/@depth-first/videos
+- Dimitri Bertsekas - https://www.youtube.com/@dimitribert/videos
+- Jia-Bin Huang - https://www.youtube.com/@jbhuang0604/videos
+- Kapil Sachdeva - https://www.youtube.com/@KapilSachdeva/videos
+- Szymon Oz - https://www.youtube.com/@szymonozog7862/videos
+- Sebastian Raschka - https://www.youtube.com/@SebastianRaschka/videos
+- Qilin Xue - https://www.youtube.com/@qilinxue989/videos
+- Gautam Iruvanti - https://www.youtube.com/@gautamiruvanti7592/featured
+- Smitha Kolan - https://www.youtube.com/@SmithaKolan/videos
+- Outlier - https://www.youtube.com/@outliier/videos
+- Mutual Information - https://www.youtube.com/@Mutual_Information/videos
+- CalendarG - https://www.youtube.com/@calendarG/videos
+
+## AI Coding
+- Echohive - https://www.youtube.com/@echohive/videos
+- Riley Brown - https://www.youtube.com/@rileybrownai
+- Mckay Wrigley - https://www.youtube.com/@realmckaywrigley/videos
+- In the World of AI - https://www.youtube.com/@intheworldofai
+- Sam Witteveen - https://www.youtube.com/@samwitteveenai/videos
+- AI with Misbah - https://www.youtube.com/@menloparklab/videos
+- Developers Digest - https://www.youtube.com/@DevelopersDigest/videos
+- Steve - https://www.youtube.com/@Steve8708/videos
+- Josh Pocock - https://www.youtube.com/@joshfpocock/videos
+- Creator Magic - https://www.youtube.com/@CreatorMagicAI/videos
+- Rob Shocks - https://www.youtube.com/@RobShocks/videos
+- IndyDevDan - https://www.youtube.com/@indydevdan/videos
+- aiwithbrandon - https://www.youtube.com/@bhancock_ai/videos
+- Greg Isenberg - https://www.youtube.com/@GregIsenberg/videos
+- AssemblyAI - https://www.youtube.com/@AssemblyAI/videos
+- Beyond Fireship - https://www.youtube.com/@beyondfireship/videos
+- Coding with GPT - https://www.youtube.com/@CodingwithGPT/videos
+- Volo - https://www.youtube.com/@VoloBuilds/videos
+- Coding with Lewis - https://www.youtube.com/@CodingWithLewis/videos
+- Replit - https://www.youtube.com/@replit
+- VercelHQ - https://www.youtube.com/@VercelHQ/videos
+- Nick White - https://www.youtube.com/@NickWhite/videos
+- MicroConf - https://www.youtube.com/@MicroConf/videos
+- Network Chuck - https://www.youtube.com/@NetworkChuck/videos
+- Gleb Kras - https://www.youtube.com/@glebkrasmedia/videos
+- Lovable Labs - https://www.youtube.com/@lovable-labs/videos
+
+## Art
+- AI Animation - Jon Draper - https://www.youtube.com/@AIAnimationStudio/videos
+- Aitrepreneur - https://www.youtube.com/@Aitrepreneur/videos
+- Olivio Sarikas - https://www.youtube.com/@OlivioSarikas
+- Pixel Artistry - https://www.youtube.com/@PixelArtistry_/videos
+- Nerdy Rodent - https://www.youtube.com/@NerdyRodent/videos
+- Scott Detweiler - https://www.youtube.com/@sedetweiler/videos
+- Tokenized AI - https://www.youtube.com/@TokenizedAI/videos
+- Theoretically Media - https://www.youtube.com/@TheoreticallyMedia/videos
+- Future Thinker - https://www.youtube.com/@TheFutureThinker/videos
+- Laura Carnevali - https://www.youtube.com/@LaCarnevali/videos
+- DreamingAI - https://www.youtube.com/@DreamingAIChannel/videos
+- Bob Doyle Media - https://www.youtube.com/@BobDoyleMedia/videos
+- ControlAltAI - https://www.youtube.com/@controlaltai/videos
+- Koiboi - https://www.youtube.com/@lewingtonn/videos
+
+## Podcasts & Talks
+- Dwarkesh Patel - https://www.youtube.com/@DwarkeshPatel/videos
+- No Priors Podcast - https://www.youtube.com/@NoPriorsPodcast
+- Redpoint AI - https://www.youtube.com/@RedpointAI
+- Trajectory AI - https://www.youtube.com/@trajectoryai
+- World Science Festival - https://www.youtube.com/worldsciencefestival
+- Every - https://www.youtube.com/@EveryInc/videos
+- Logan Bartlett - https://www.youtube.com/@theloganbartlettshow
+- Eye on AI - https://www.youtube.com/@eyeonai3425/videos
+- Google DeepMind - https://www.youtube.com/@googledeepmind/videos
+- Logan Kilpatrick - https://www.youtube.com/@LoganKilpatrickYT/videos
+- Machine Learning Street Talk - https://www.youtube.com/@MachineLearningStreetTalk/videos
+- Rowan Cheung - https://www.youtube.com/@rowanch/videos
+- Lex Fridman - https://www.youtube.com/@lexfridman
+- Y Combinator - https://www.youtube.com/@ycombinator
+- All-In Podcast - https://www.youtube.com/@allin/videos
+- Joe Rogan - https://www.youtube.com/@joerogan/videos
+- Bad Decisions Studio - https://www.youtube.com/@badxstudio/videos
+- Industrial AI Federation - https://www.youtube.com/@industrialaifederation/videos
+
+## AI Explainers
+- The AI Epiphany - https://www.youtube.com/@TheAIEpiphany/videos
+- Developers Hut - https://www.youtube.com/@DevelopersHutt/videos
+- Trelis Research - https://www.youtube.com/@TrelisResearch/videos
+- Art of the Problem - https://www.youtube.com/@ArtOfTheProblem/videos
+- Samuel Albanie - https://www.youtube.com/@SamuelAlbanie1/videos
+- Artem Kirsanov - https://www.youtube.com/@ArtemKirsanov/videos
+- Branch Education(not specific to AI) - https://www.youtube.com/@BranchEducation/videos
+- Computerphile - https://www.youtube.com/@Computerphile/videos
+- Robert Miles - https://www.youtube.com/@RobertMilesAI/videos
+- Futurology - https://www.youtube.com/@OptimisticFuturology/videos
+
+## Misc
+- AI Tooltip - https://www.youtube.com/@AI.Tooltip/videos
+- Relume - https://www.youtube.com/@Relume_io/videos
+- Bryan Johnson - https://www.youtube.com/@BryanJohnson/videos
+- Boris Meinardus - https://www.youtube.com/@borismeinardus/videos
+- Daniel Bourke - https://www.youtube.com/@mrdbourke/videos
